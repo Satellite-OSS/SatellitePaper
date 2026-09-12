@@ -191,11 +191,8 @@ Jinfeng Wen, Qi Liang, Yuehan Sun, Federica Sarro, Ao Zhou, Xuanzhe Liu, Shanggu
 
 ### WWW
 
-- A multifaceted look at starlink performance — **2024**
+- A multifaceted look at Starlink performance — **2024**
 - SatGuard: Concealing Endless and Bursty Packet Losses in LEO Satellite Networks for Delay-Sensitive Web Applications — **2024**
 - Beyond the first law of geography: Learning representations of satellite imagery by leveraging point-of-interests — **2022**
 
 
-# Tool List:
-
-- Simulation Tool:
