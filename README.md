@@ -23,6 +23,10 @@ Jinfeng Wen, Qi Liang, Yuehan Sun, Federica Sarro, Ao Zhou, Xuanzhe Liu, Shanggu
 - Lightweight and robust representation of economic scales from satellite imagery — **2020**
 - PulseSatellite: A Tool Using Human-AI Feedback Loops for Satellite Image Analysis in Humanitarian Contexts — **2020**
 
+### ASP-DAC
+
+- YoseUe: “trimming” Random Forest’s training towards resource-constrained inference — **2024**
+
 ### ASE
 
 - A vision on a methodology for the application of an Intrusion Detection System for satellites — **2024**
@@ -36,23 +40,25 @@ Jinfeng Wen, Qi Liang, Yuehan Sun, Federica Sarro, Ao Zhou, Xuanzhe Liu, Shanggu
 
 ### CVPR
 
-- Tackling the Satellite Downlink Bottleneck with Federated Onboard Learning of Image Compression — **2024**
+- Tackling the Satellite Downlink Bottleneck with Federated Onboard Learning of Image Compression — **2024** (workshop)
 
 ### DAC
 
-- A mapping of triangular block interleavers to DRAM for optical satellite communication — **2024**
-- YoseUe: “trimming” Random Forest’s training towards resource-constrained inference — **2024**
 - On-device unsupervised image segmentation — **2023**
 - VITAL: Vision transformer neural networks for accurate smartphone heterogeneity resilient indoor localization — **2023**
 - BlueSeer: AI-driven environment detection via BLE scans — **2022**
 - ODHD: one-class brain-inspired hyperdimensional computing for outlier detection — **2022**
 - LOFFS: A low-overhead file system for large flash memory on embedded devices — **2020**
 
+### DATE
+
+- A mapping of triangular block interleavers to DRAM for optical satellite communication — **2024**
+
 ### ECCV
 
-- Asynchronous Kalman Filter for Event-Based Star Tracking — **2023**
-- End-to-end Neural Estimation of Spacecraft Pose with Intermediate Detection of Keypoints — **2022**
-- Transfer Learning for On-Orbit Ship Segmentation — **2022**
+- Asynchronous Kalman Filter for Event-Based Star Tracking — **2023** (workshop)
+- End-to-end Neural Estimation of Spacecraft Pose with Intermediate Detection of Keypoints — **2022** (workshop)
+- Transfer Learning for On-Orbit Ship Segmentation — **2022** (workshop)
 
 ### FAST
 
@@ -67,7 +73,7 @@ Jinfeng Wen, Qi Liang, Yuehan Sun, Federica Sarro, Ao Zhou, Xuanzhe Liu, Shanggu
 
 ### IJCV
 
-- Image-Based Geo-Localization Using Satellite Imagery — **2024**
+- Image-Based Geo-Localization Using Satellite Imagery — **2020**
 
 ### INFOCOM
 
@@ -91,7 +97,7 @@ Jinfeng Wen, Qi Liang, Yuehan Sun, Federica Sarro, Ao Zhou, Xuanzhe Liu, Shanggu
 - Leader-Follower Formation Control of a Large-Scale Swarm of Satellite System Using the State-Dependent Riccati Equation: Orbit-to-Orbit and In-Same-Orbit Regulation — **2023**
 - A Large-Scale Dataset for Water Segmentation of SAR Satellite — **2021**
 - Parameter Identification for an Uncooperative Captured Satellite with Spinning Reaction Wheels — **2020**
-- Vision-based rotational control of an agile observation satellite — **2020**
+- Vision-based rotational control of an agile observation satellite — **2022**
 - Visual Monitoring and Servoing of a Cutting Blade during Telerobotic Satellite Servicing — **2020**
 
 ### MobiCom
@@ -117,7 +123,7 @@ Jinfeng Wen, Qi Liang, Yuehan Sun, Federica Sarro, Ao Zhou, Xuanzhe Liu, Shanggu
 ### SC
 
 - A Workflow Roofline Model for End-to-End Workflow Performance Analysis — **2024**
-- Performance portability via C++ PSTL, SYCL, OpenMP, and HIP: the Gaia AVU-GSR case study — **2024**
+- Performance portability via C++ PSTL, SYCL, OpenMP, and HIP: the Gaia AVU-GSR case study — **2024** (workshop)
 - Big Data Assimilation: Real-time 30-second-refresh Heavy Rain Forecast Using Fugaku During Tokyo Olympics and Paralympics — **2023**
 - Fine-grained Policy-driven I/O Sharing for Burst Buffers — **2023**
 - PeeK: A Prune-Centric Approach for K Shortest Path Computation — **2023**
@@ -177,7 +183,7 @@ Jinfeng Wen, Qi Liang, Yuehan Sun, Federica Sarro, Ao Zhou, Xuanzhe Liu, Shanggu
 ### USENIX ATC
 
 - Auto: Adaptive Congestion Control Based on Multi-Objective Reinforcement Learning for the Satellite-Ground Integrated Network — **2021**
-- CARUS: Attacking low Earth orbit satellite networks — **2021**
+- ICARUS: Attacking low Earth orbit satellite networks — **2021**
 
 ### VIS
 
