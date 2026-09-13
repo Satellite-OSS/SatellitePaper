@@ -5,8 +5,6 @@ Jinfeng Wen, Qi Liang, Yuehan Sun, Federica Sarro, Ao Zhou, Xuanzhe Liu, Shanggu
 # Paper List (Top Conferences):
 
 > A total of 426 papers, categorized by journal/conference and arranged from newest to oldest within each category.
->
-> The 2025–2026 satellite-related update retains 313 papers from the original 315 candidates after relevance review (cutoff: 2026-09-12). After deduplication against the existing list, 306 papers were added and 7 existing entries were updated. Journal years follow formal publication dates; conference years follow the conference edition. Workshop papers are marked explicitly; Findings and Companion tracks retain their own labels.
 
 ### AAAI
 
