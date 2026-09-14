@@ -1,6 +1,8 @@
 
 # Paper List (Top Conferences):
 
+[![Total views](https://raw.githubusercontent.com/Satellite-OSS/.github/main/traffic-SatellitePaper/views.svg)](https://github.com/Satellite-OSS/.github/tree/main/traffic-SatellitePaper "Cumulative repository views recorded since 2026-08-30; updated daily")
+
 > A total of 426 papers, categorized by journal/conference and arranged from newest to oldest within each category.
 
 ### AAAI
