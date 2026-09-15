@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Total views](https://raw.githubusercontent.com/Satellite-OSS/.github/main/traffic/SatellitePaper/views.svg)](https://github.com/Satellite-OSS/.github/tree/main/traffic/SatellitePaper "Cumulative recorded repository views; updated daily")
+[![Total views](https://raw.githubusercontent.com/Satellite-OSS/.github/main/traffic/SatellitePaper/views.svg)](https://github.com/Satellite-OSS/.github/tree/main/traffic/SatellitePaper "Cumulative recorded repository views; updated hourly")
 
 </div>
 
