@@ -7,7 +7,7 @@
 
 </div>
 
-> A total of 391 papers, categorized by journal/conference and arranged from newest to oldest within each category.
+> A total of 432 papers, categorized by journal/conference and arranged from newest to oldest within each category.
 
 ### AAAI
 
@@ -287,6 +287,50 @@
 - [Transmitting, fast and slow: Scheduling satellite traffic through space and time](https://doi.org/10.1145/3570361.3592521) — **2023**
 - [A community-driven approach to democratize access to satellite ground stations](https://doi.org/10.1145/3447993.3448630) — **2021**
 - [Hummingbird: energy efficient GPS receiver for small satellites](https://doi.org/10.1145/3372224.3380886) — **2020**
+
+### NeurIPS
+
+- [Adapting Actively on the Fly: Relevance-Guided Online Meta-Learning with Latent Concepts for Geospatial Discovery](https://arxiv.org/pdf/2602.17605) — **2026**
+- [ASTRA: ADMM-Accelerated Topology Reconfiguration for Dynamic Satellite Constellations](https://arxiv.org/pdf/2609.33993) — **2026**
+- [Can LLM Agents Respond to Disasters? Benchmarking Heterogeneous Geospatial Reasoning in Emergency Operations](https://arxiv.org/pdf/2605.11633) — **2026**
+- [EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting](https://arxiv.org/pdf/2606.27277) — **2026**
+- [GeoCore-9B: Towards Geo-Aware Generative Foundation Models in Earth Observation](https://arxiv.org/pdf/2608.01896) — **2026**
+- [GeoX: Mastering Geospatial Reasoning Through Self-Play and Verifiable Rewards](https://arxiv.org/pdf/2605.20006) — **2026**
+- [How Much of a Model Do We Need? Redundancy and Slimmability in Remote Sensing Foundation Models](https://arxiv.org/pdf/2601.22841) — **2026**
+- [LESSViT: Robust Hyperspectral Representation Learning under Spectral Configuration Shift](https://arxiv.org/pdf/2605.18541) — **2026**
+- [LithoBench: Benchmarking Large Multimodal Models for Remote-Sensing Lithology Interpretation](https://arxiv.org/pdf/2605.07640) — **2026**
+- [No One Knows the State-of-the-Art in Geospatial Foundation Models](https://arxiv.org/pdf/2605.12678) — **2026**
+- [RPC-GS: Gaussian Splatting with native RPC Rendering for Satellite Imagery](https://arxiv.org/pdf/2606.06690) — **2026**
+- [RSRCC: A Remote Sensing Regional Change Comprehension Benchmark Constructed via Retrieval-Augmented Best-of-𝑁 Ranking](https://arxiv.org/pdf/2604.20623) — **2026**
+- [SenseBench: A Benchmark for Remote Sensing Low-Level Visual Perception and Description in Large Vision-Language Models](https://arxiv.org/pdf/2605.10576) — **2026**
+- [UniverSat: Resolution- and Modality-Agnostic Transformers for Earth Observation](https://arxiv.org/pdf/2606.23503) — **2026**
+- [VLRS-Bench: A Vision-Language Reasoning Benchmark for Remote Sensing](https://arxiv.org/pdf/2602.07045) — **2026**
+- [ChA-MAEViT: Unifying Channel-Aware Masked Autoencoders and Multi-Channel Vision Transformers for Improved Cross-Channel Learning](https://proceedings.neurips.cc/paper_files/paper/2025/file/11c0318fc7b0315fa9542449b1c9ba32-Paper-Conference.pdf) — **2025**
+- [CHOICE: Benchmarking the Remote Sensing Capabilities of Large Vision-Language Models](https://proceedings.neurips.cc/paper_files/paper/2025/file/befe25a01cf4dbe9635e85f835d31250-Paper-Datasets_and_Benchmarks_Track.pdf) — **2025**
+- [DAWP: A framework for global observation forecasting via Data Assimilation and Weather Prediction in satellite observation space](https://proceedings.neurips.cc/paper_files/paper/2025/file/da8a39bc39ae1c89dd6ebb1e3bcbb3f3-Paper-Conference.pdf) — **2025**
+- [DisasterM3: A Remote Sensing Vision-Language Dataset for Disaster Damage Assessment and Response](https://proceedings.neurips.cc/paper_files/paper/2025/file/ec80d18205e39d42a27192d5f3ddd688-Paper-Datasets_and_Benchmarks_Track.pdf) — **2025**
+- [GeoLink: Empowering Remote Sensing Foundation Model with OpenStreetMap Data](https://proceedings.neurips.cc/paper_files/paper/2025/file/f681209306654a0c1f690f65810e8e45-Paper-Conference.pdf) — **2025**
+- [GeoLLaVA-8K: Scaling Remote-Sensing Multimodal Large Language Models to 8K Resolution](https://proceedings.neurips.cc/paper_files/paper/2025/file/e95ef5c6ed4096c609e0b8b47ffaeb9b-Paper-Conference.pdf) — **2025**
+- [GreenHyperSpectra: A multi-source hyperspectral dataset for global vegetation trait prediction](https://proceedings.neurips.cc/paper_files/paper/2025/file/a9f642375bc58176e5bffe1656ae2ca2-Paper-Datasets_and_Benchmarks_Track.pdf) — **2025**
+- [GTPBD: A Fine-Grained Global Terraced Parcel and Boundary Dataset](https://proceedings.neurips.cc/paper_files/paper/2025/file/da3f5e8ad41aea0980bcf4f55fb099f4-Paper-Datasets_and_Benchmarks_Track.pdf) — **2025**
+- [IRRISIGHT: A Large-Scale Multimodal Dataset and Scalable Pipeline to Address Irrigation and Water Management in Agriculture](https://proceedings.neurips.cc/paper_files/paper/2025/file/0821a1413339bf79ba01876783d95c53-Paper-Datasets_and_Benchmarks_Track.pdf) — **2025**
+- [LISAt: Language-Instructed Segmentation Assistant for Satellite Imagery](https://proceedings.neurips.cc/paper_files/paper/2025/file/a38a009bb015775b7685b5ef3c206310-Paper-Datasets_and_Benchmarks_Track.pdf) — **2025**
+- [Mars-Bench: A Benchmark for Evaluating Foundation Models for Mars Science Tasks](https://proceedings.neurips.cc/paper_files/paper/2025/file/b21b8e8823034df7de4a8cc2e56891af-Paper-Datasets_and_Benchmarks_Track.pdf) — **2025**
+- [MONITRS: Multimodal Observations of Natural Incidents Through Remote Sensing](https://proceedings.neurips.cc/paper_files/paper/2025/file/bd96a50dfd2314e48787581840a07a1a-Paper-Datasets_and_Benchmarks_Track.pdf) — **2025**
+- [Pan-LUT: Efficient Pan-sharpening via Learnable Look-Up Tables](https://proceedings.neurips.cc/paper_files/paper/2025/file/b7e80990ff6268f8572eab63b7b7da05-Paper-Conference.pdf) — **2025**
+- [Physics-informed Neural Operator for Pansharpening](https://proceedings.neurips.cc/paper_files/paper/2025/file/89af8e4eb696738f2c9e589522968a09-Paper-Conference.pdf) — **2025**
+- [PhySwin: An Efficient and Physically-Informed Foundation Model for Multispectral Earth Observation](https://proceedings.neurips.cc/paper_files/paper/2025/file/7d03c6bf9f07acb4038eea96c63db52d-Paper-Conference.pdf) — **2025**
+- [PIPE: Physics-Informed Position Encoding for Alignment of Satellite Images and Time Series in Typhoon Forecasting](https://proceedings.neurips.cc/paper_files/paper/2025/file/4c12860f95ba4801b11c8405f7ba5679-Paper-Conference.pdf) — **2025**
+- [Quality-Driven Curation of Remote Sensing Vision-Language Data via Learned Scoring Models](https://proceedings.neurips.cc/paper_files/paper/2025/file/fa0a1013e171c1be6121c9bc9fb6589f-Paper-Conference.pdf) — **2025**
+- [REOBench: Benchmarking Robustness of Earth Observation Foundation Models](https://proceedings.neurips.cc/paper_files/paper/2025/file/58af38e2fba04b5e00c3450018c56406-Paper-Datasets_and_Benchmarks_Track.pdf) — **2025**
+- [RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing](https://proceedings.neurips.cc/paper_files/paper/2025/file/065c00e902f3f0117d1a4da0a9b0e497-Paper-Conference.pdf) — **2025**
+- [RSCC: A Large-Scale Remote Sensing Change Caption Dataset for Disaster Events](https://proceedings.neurips.cc/paper_files/paper/2025/file/62867024377cac4233195949b9db0ebd-Paper-Datasets_and_Benchmarks_Track.pdf) — **2025**
+- [SentinelKilnDB: A Large-Scale Dataset and Benchmark for OBB Brick Kiln Detection in South Asia Using Satellite Imagery](https://proceedings.neurips.cc/paper_files/paper/2025/file/9ab8bb568825d49ce31aa87b7e2f4ad7-Paper-Datasets_and_Benchmarks_Track.pdf) — **2025**
+- [SmokeViz: A Large-Scale Satellite Dataset for Wildfire Smoke Detection and Segmentation](https://proceedings.neurips.cc/paper_files/paper/2025/file/3b2116b636f64553d7fe33d87a701b06-Paper-Datasets_and_Benchmarks_Track.pdf) — **2025**
+- [Spiking Meets Attention: Efficient Remote Sensing Image Super-Resolution with Attention Spiking Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2025/file/5e3f2028c5a78fbfb6e1754b7cfb6153-Paper-Conference.pdf) — **2025**
+- [Towards Realistic Earth-Observation Constellation Scheduling: Benchmark and Methodology](https://proceedings.neurips.cc/paper_files/paper/2025/file/7c40c5050bd029a3ea7ff8b01412f735-Paper-Conference.pdf) — **2025**
+- [Visualizing Our Changing Earth: A Creative AI Framework for Democratizing Environmental Storytelling Through Satellite Imagery](https://proceedings.neurips.cc/paper_files/paper/2025/file/9c6f6aefb8aa4feb0567e2d163c3ac27-Paper-Creative_AI_Track.pdf) — **2025** (Creative AI Track)
+- [WKV-sharing embraced random shuffle RWKV high-order modeling for pan-sharpening](https://proceedings.neurips.cc/paper_files/paper/2025/file/d194e6b365e2cca61170445f25412122-Paper-Conference.pdf) — **2025**
 
 ### NSDI
 
