@@ -7,7 +7,7 @@
 
 </div>
 
-> A total of 426 papers, categorized by journal/conference and arranged from newest to oldest within each category.
+> A total of 391 papers, categorized by journal/conference and arranged from newest to oldest within each category.
 
 ### AAAI
 
@@ -24,10 +24,8 @@
 - [Efficient Tensorized Multi-View Anchor Graph Clustering with Affinity Propagation for Remote Sensing Data](https://doi.org/10.1609/aaai.v40i34.40080) — **2026**
 - [Exploring Efficient Open-Vocabulary Segmentation in the Remote Sensing](https://doi.org/10.1609/aaai.v40i8.37521) — **2026**
 - [Exploring Generalizable Remote Sensing Change Detection via Low-Rank Exchange Adaptation of Vision Foundation Model](https://doi.org/10.1609/aaai.v40i15.38262) — **2026**
-- [Frequency-Aware Vision-Language Multimodality Generalization Network for Remote Sensing Image Classification](https://doi.org/10.1609/aaai.v40i15.38251) — **2026**
 - [Generalizable Slum Detection from Satellite Imagery with Mixture-of-Experts](https://doi.org/10.1609/aaai.v40i45.41227) — **2026**
 - [Graph Masked Autoencoder for Multi-view Remote Sensing Data Clustering](https://doi.org/10.1609/aaai.v40i26.39286) — **2026**
-- [GSAG-CDGAN: A Generalizable Small-Sample Attention-Guided GAN for Remote Sensing Change Detection (Student Abstract)](https://doi.org/10.1609/aaai.v40i48.42303) — **2026**
 - [HTTrack: Learning to Perceive Targets via Historical Trajectories in Satellite Video Tracking](https://doi.org/10.1609/aaai.v40i12.37950) — **2026**
 - [LWGANet: Addressing Spatial and Channel Redundancy in Remote Sensing Visual Tasks with Light-Weight Grouped Attention](https://doi.org/10.1609/aaai.v40i9.37698) — **2026**
 - [MaRS: A Multi-modality Very-high-resolution Remote Sensing Foundation Model with Cross-Granularity Meta-Modality Learning](https://doi.org/10.1609/aaai.v40i14.38153) — **2026**
@@ -45,7 +43,6 @@
 - [Small but Mighty: Dynamic Wavelet Expert-Guided Fine-Tuning of Large-Scale Models for Optical Remote Sensing Object Segmentation](https://doi.org/10.1609/aaai.v40i11.37880) — **2026**
 - [Strip R-CNN: Large Strip Convolution for Remote Sensing Object Detection](https://doi.org/10.1609/aaai.v40i15.38217) — **2026**
 - [T-APT: Text-Guided Modality-Aware Prompt Tuning for Arbitrary Multimodal Remote Sensing Data Joint Classification](https://doi.org/10.1609/aaai.v40i6.42411) — **2026**
-- [V2VLoc: Robust GNSS-Free Collaborative Perception via LiDAR Localization](https://doi.org/10.1609/aaai.v40i9.37633) — **2026**
 - [Accounting for Spatial Variability with the Histogram of Oriented Gradients Based Masking Improves Performance of Masked Autoencoder over Hyperspectral Satellite Imagery (Student Abstract)](https://doi.org/10.1609/aaai.v39i28.35253) — **2025**
 - [Data Augmentation Approaches for Satellite Imagery](https://doi.org/10.1609/aaai.v39i27.35028) — **2025**
 - [Data-driven Precipitation Nowcasting Using Satellite Imagery](https://doi.org/10.1609/aaai.v39i27.35049) — **2025**
@@ -78,10 +75,6 @@
 - [Inferring Nighttime Satellite Imagery from Human Mobility](https://doi.org/10.1609/aaai.v34i01.5375) — **2020**
 - [Lightweight and robust representation of economic scales from satellite imagery](https://doi.org/10.1609/aaai.v34i01.5379) — **2020**
 - [PulseSatellite: A Tool Using Human-AI Feedback Loops for Satellite Image Analysis in Humanitarian Contexts](https://doi.org/10.1609/aaai.v34i09.7101) — **2020**
-
-### ASP-DAC
-
-- [YoseUe: “trimming” Random Forest’s training towards resource-constrained inference](https://doi.org/10.1109/asp-dac58780.2024.10473804) — **2024**
 
 ### ASE
 
@@ -124,7 +117,6 @@
 - [Detecting Looted Archaeological Sites from Satellite Image Time Series](https://doi.org/10.1109/cvprw67362.2025.00216) — **2025** (workshop)
 - [Distribution Shifts at Scale: Out-of-distribution Detection in Earth Observation](https://doi.org/10.1109/cvprw67362.2025.00213) — **2025** (workshop)
 - [Dynamic State-Control Modeling for Generalized Remote Sensing Image Super-Resolution](https://doi.org/10.1109/cvprw67362.2025.00290) — **2025** (workshop)
-- [EcoWikiRS: Learning Ecological Representation of Satellite Images from Weak Supervision with Species Observations and Wikipedia](https://doi.org/10.1109/cvprw67362.2025.00214) — **2025** (workshop)
 - [Efficient Self-Supervised Learning for Earth Observation via Dynamic Dataset Curation](https://doi.org/10.1109/cvprw67362.2025.00284) — **2025** (workshop)
 - [Foundation Models for Remote Sensing: An Analysis of MLLMs for Object Localization](https://doi.org/10.1109/cvprw67362.2025.00285) — **2025** (workshop)
 - [FrogDogNet: Fourier Frequency Retained Visual Prompt Output Guidance for Domain Generalization of CLIP in Remote Sensing](https://doi.org/10.1109/cvprw67362.2025.00222) — **2025** (workshop)
@@ -146,7 +138,6 @@
 - [Exact: Exploring Space-Time Perceptive Clues for Weakly Supervised Satellite Image Time Series Semantic Segmentation](https://doi.org/10.1109/cvpr52734.2025.01310) — **2025**
 - [Feature Spectrum Learning for Remote Sensing Change Detection](https://doi.org/10.1109/cvpr52734.2025.01180) — **2025**
 - [Gaussian Splatting for Efficient Satellite Image Photogrammetry](https://doi.org/10.1109/cvpr52734.2025.00559) — **2025**
-- [GPS as a Control Signal for Image Generation](https://doi.org/10.1109/cvpr52734.2025.00264) — **2025**
 - [Hazy Low-Quality Satellite Video Restoration Via Learning Optimal Joint Degradation Patterns and Continuous-Scale Super-Resolution Reconstruction](https://doi.org/10.1109/cvpr52734.2025.01184) — **2025**
 - [HyperFree: A Channel-adaptive and Tuning-free Foundation Model for Hyperspectral Remote Sensing Imagery](https://doi.org/10.1109/cvpr52734.2025.02146) — **2025**
 - [MFogHub: Bridging Multi-Regional and Multi-Satellite Data for Global Marine Fog Detection and Forecasting](https://doi.org/10.1109/cvpr52734.2025.01179) — **2025**
@@ -165,11 +156,6 @@
 ### DAC
 
 - [REMU: Memory-aware Radiation Emulation via Dual Addressing for In-orbit Deep Learning System](https://doi.org/10.1109/dac63849.2025.11132935) — **2025**
-- [On-device unsupervised image segmentation](https://doi.org/10.1109/dac56929.2023.10247959) — **2023**
-- [VITAL: Vision transformer neural networks for accurate smartphone heterogeneity resilient indoor localization](https://doi.org/10.1109/dac56929.2023.10247684) — **2023**
-- [BlueSeer: AI-driven environment detection via BLE scans](https://doi.org/10.1145/3489517.3530519) — **2022**
-- [ODHD: one-class brain-inspired hyperdimensional computing for outlier detection](https://doi.org/10.1145/3489517.3530395) — **2022**
-- [LOFFS: A low-overhead file system for large flash memory on embedded devices](https://doi.org/10.1109/dac18072.2020.9218635) — **2020**
 
 ### DATE
 
@@ -189,11 +175,6 @@
 - [Asynchronous Kalman Filter for Event-Based Star Tracking](https://doi.org/10.1007/978-3-031-25056-9_5) — **2023** (workshop)
 - [End-to-end Neural Estimation of Spacecraft Pose with Intermediate Detection of Keypoints](https://doi.org/10.1007/978-3-031-25056-9_11) — **2022** (workshop)
 - [Transfer Learning for On-Orbit Ship Segmentation](https://doi.org/10.1007/978-3-031-25056-9_2) — **2022** (workshop)
-
-### FAST
-
-- [TVStore: Automatically Bounding Time Series Storage via Time-Varying Compression](https://www.usenix.org/conference/fast22/presentation/an) — **2022**
-- [Pattern-Guided File Compression with User-Experience Enhancement for Log-Structured File System on Mobile Devices](https://www.usenix.org/conference/fast21/presentation/ji) — **2021**
 
 ### ICRA
 
@@ -220,7 +201,6 @@
 - [A Large-Scale IPv6-Based Measurement of the Starlink Network](https://doi.org/10.1109/infocom59046.2026.11571358) — **2026**
 - [A Modeled-Delay-Based Transmission Control for High-Speed Low-Earth-Orbit-Constellation Networks](https://doi.org/10.1109/infocom59046.2026.11571178) — **2026**
 - [Age of Entanglement in Satellite Repeater Chains with Intermittent Availability](https://doi.org/10.1109/infocom59046.2026.11571216) — **2026**
-- [BenchLink: An SoC-Based Benchmark for Resilient Communication Links in GPS-Denied Environments](https://doi.org/10.1109/infocom59046.2026.11571474) — **2026**
 - [Covert Multi-Hop LEO Routing Against Cyclic Feature Detectors via Controlled Delays](https://doi.org/10.1109/infocom59046.2026.11571412) — **2026**
 - [DS-Route: GNN-based Flow-Level Latency Prediction in Software-Defined LEO Satellite Networks](https://doi.org/10.1109/infocom59046.2026.11571392) — **2026**
 - [Enabling Efficient Transmission of Satellite-to-Ground Downlinks via Throughput Prediction](https://doi.org/10.1109/infocom59046.2026.11571545) — **2026**
@@ -237,7 +217,6 @@
 - [PMPS: Predictive Multi-Path Scheduling for Handover-Free LEO Communications](https://doi.org/10.1109/infocom59046.2026.11571684) — **2026**
 - [Prediction-Driven QoE Optimization for Video Calls over LEO Satellite Networks](https://doi.org/10.1109/infocom59046.2026.11571440) — **2026**
 - [Q-FLAP: Quantum-Secured Federated Learning with Adaptive Protection for Jamming-Resilient LEO Satellite-IoT Networks](https://doi.org/10.1109/infocom59046.2026.11571279) — **2026**
-- [Resilient Percentile-Driven Spectrum Sharing for NTN–TN Coexistence](https://doi.org/10.1109/infocom59046.2026.11571429) — **2026**
 - [SigHitching: Efficient Non-Broadcast Paging in Direct-to-Cell LEO Satellite Networks](https://doi.org/10.1109/infocom59046.2026.11571622) — **2026**
 - [Stability-Aware Predictive Clustering for 6G Integrated TN–NTN Cell-Free Massive MIMO](https://doi.org/10.1109/infocom59046.2026.11571453) — **2026**
 - [Task Scheduling for Dispersed Computing in Satellite Networks](https://doi.org/10.1109/infocom59046.2026.11571344) — **2026**
@@ -286,7 +265,6 @@
 ### IROS
 
 - [From Satellite to Street: Semantic and Depth Information for Enhanced Geo-Localization](https://doi.org/10.1109/iros60139.2025.11247423) — **2025**
-- [Hybrid Control Approach for Walking-Assembly Integrated Space Robots in On-Orbit Assembly *](https://doi.org/10.1109/iros60139.2025.11246896) — **2025**
 - [MobiExo: GPS-SLAM Fusion for Seamless Indoor-Outdoor Mobile Manipulation with Hand-Foot Coordination](https://doi.org/10.1109/iros60139.2025.11246254) — **2025**
 - [Roadside GNSS Aided Multi-Sensor Integrated System for Vehicle Positioning in Urban Areas](https://doi.org/10.1109/iros60139.2025.11246475) — **2025**
 - [Underwater Remote Intervention Based on Satellite Communication](https://doi.org/10.1109/iros60139.2025.11247530) — **2025**
@@ -312,7 +290,6 @@
 
 ### NSDI
 
-- [A Systematic Threat Analysis and Practical Attacks on Automated Frequency Coordination Systems](https://www.usenix.org/conference/nsdi26/presentation/dong) — **2026**
 - [Democratizing Direct-to-Cell Low Earth Orbit Satellite Networks](https://www.usenix.org/conference/nsdi24/presentation/liu-lixin) — **2024**
 - [Known Knowns and Unknowns: Near-realtime Earth Observation Via Query Bifurcation in Serval](https://www.usenix.org/conference/nsdi24/presentation/tao) — **2024**
 - [Spectrumize: Spectrum-efficient Satellite Networks for the Internet of Things](https://www.usenix.org/conference/nsdi24/presentation/singh-vaibhav) — **2024**
@@ -323,23 +300,8 @@
 
 ### SC
 
-- [Simulating many-engine spacecraft: Exceeding 1 quadrillion degrees of freedom via information geometric regularization](https://doi.org/10.1145/3712285.3771783) — **2025**
-- [A Workflow Roofline Model for End-to-End Workflow Performance Analysis](https://doi.org/10.1109/sc41406.2024.00071) — **2024**
 - [Performance portability via C++ PSTL, SYCL, OpenMP, and HIP: the Gaia AVU-GSR case study](https://doi.org/10.1109/scw63240.2024.00157) — **2024** (workshop)
-- [Big Data Assimilation: Real-time 30-second-refresh Heavy Rain Forecast Using Fugaku During Tokyo Olympics and Paralympics](https://doi.org/10.1145/3581784.3627047) — **2023**
-- [Fine-grained Policy-driven I/O Sharing for Burst Buffers](https://doi.org/10.1145/3581784.3607041) — **2023**
-- [PeeK: A Prune-Centric Approach for K Shortest Path Computation](https://doi.org/10.1145/3581784.3607110) — **2023**
-- [Scaling the Leading Accuracy of Deep Equivariant Models to Biomolecular Simulations of Realistic Size](https://doi.org/10.1145/3581784.3627041) — **2023**
-- [Accelerating parallel write via deeply integrating predictive lossy compression with HDF5](https://doi.org/10.1109/sc41404.2022.00066) — **2022**
-- [Dynamic quality metric oriented error bounded lossy compression for scientific datasets](https://doi.org/10.1109/sc41404.2022.00067) — **2022**
-- [Memory optimizations in an array language](https://doi.org/10.1109/sc41404.2022.00036) — **2022**
-- [Towards scalable resource management for supercomputers](https://doi.org/10.1109/sc41404.2022.00029) — **2022**
-- [3D acoustic-elastic coupling with gravity: the dynamics of the 2018 Palu, Sulawesi earthquake and tsunami](https://doi.org/10.1145/3458817.3476173) — **2021**
-- [Anton 3: twenty microseconds of molecular dynamics simulation before lunch](https://doi.org/10.1145/3458817.3487397) — **2021**
-- [Resilient error-bounded lossy compressor for data transfer](https://doi.org/10.1145/3458817.3476195) — **2021**
-- [A 1024-member ensemble data assimilation with 3.5-km mesh global weather simulations](https://doi.org/10.1109/sc41405.2020.00005) — **2020**
 - [Recurrent neural network architecture search for geophysical emulation](https://doi.org/10.1109/sc41405.2020.00012) — **2020**
-- [Scaling distributed deep learning workloads beyond the memory capacity with KARMA](https://doi.org/10.1109/sc41405.2020.00023) — **2020**
 
 ### TC
 
@@ -386,7 +348,6 @@
 - [Low-Altitude UAV Friendly-Jamming for Satellite-Maritime Communications via Generative AI-Enabled Deep Reinforcement Learning](https://doi.org/10.1109/tmc.2025.3631861) — **2026**
 - [Age-Optimal Rate Control Transport Protocol for Cohesive Clustered Satellite Systems](https://doi.org/10.1109/tmc.2025.3618276) — **2026**
 - [An SFC-Constrained Max-Flow Solver for Satellite Networks Using Flexible Function-Time Expanded Graph](https://doi.org/10.1109/tmc.2025.3623456) — **2026**
-- [A Hierarchical MAFDRL-Based Resource Allocation and Incentive Mechanism for TN-NTN in 6G Networks](https://doi.org/10.1109/tmc.2025.3608291) — **2026**
 - [LEO-Split: A Semi-Supervised Split Learning Framework Over LEO Satellite Networks](https://doi.org/10.1109/tmc.2025.3601371) — **2026**
 - [ALCS: An Adaptive Latency Compensation Scheduler for Multipath TCP in Satellite-Terrestrial Integrated Networks](https://doi.org/10.1109/tmc.2025.3594896) — **2026**
 - [RL-Driven Distributed On-Orbit Sparse Coding for Mobile Space Situational Awareness](https://doi.org/10.1109/tmc.2025.3593228) — **2026**
@@ -416,7 +377,6 @@
 - [Energy-Efficient Multi-Access Edge Computing for Heterogeneous Satellite-Maritime Networks: A Hybrid Harvesting-and-Offloading Design](https://doi.org/10.1109/tmc.2025.3581607) — **2025**
 - [PHandover: Parallel Handover in Mobile Satellite Network](https://doi.org/10.1109/tmc.2025.3582245) — **2025**
 - [Source Routing for LEO Mega-Constellations Based on Bloom Filter](https://doi.org/10.1109/tmc.2025.3586626) — **2025**
-- [AOA Sensor Placement for Anchor-Assisted Target Localization in GNSS-Denied Environment: Formulation, Bounds and Optimization](https://doi.org/10.1109/tmc.2025.3570768) — **2025**
 - [Joint Partitioning, Allocation, and Transmission Optimization for Federated Learning in Satellite Constellations via Multi-Task MARL](https://doi.org/10.1109/tmc.2025.3568470) — **2025**
 - [Multi-Attribute Consistency Segment Resilient Routing for LEO Satellite Mega Constellations](https://doi.org/10.1109/tmc.2025.3570670) — **2025**
 - [Satellite Edge Intelligence: DRL-Based Resource Management for Task Inference in LEO-Based Satellite-Ground Collaborative Networks](https://doi.org/10.1109/tmc.2025.3570799) — **2025**
@@ -496,7 +456,6 @@
 
 ### WWW
 
-- [An Edge Computing Framework for Deep Learning-Based Anomaly Detection in Satellite-Linked Autonomous Vehicles](https://doi.org/10.1145/3774905.3794678) — **2026** (Companion)
 - [Investigating Web Content Delivery Performance over Starlink](https://doi.org/10.1145/3774904.3792227) — **2026**
 - [Starlink in the Wild: Multi-Perspective Measurements via DNS](https://doi.org/10.1145/3774904.3792366) — **2026**
 - [Nature Makes No Leaps: Building Continuous Location Embeddings with Satellite Imagery from the Web](https://doi.org/10.1145/3696410.3714629) — **2025**
